@@ -37,7 +37,7 @@ export const Hero: React.FC = () => {
       {/* Cinematic Hero Image Overlay Background */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/piraso_hero_banner_1780821456695.png"
+          src="/images/piraso_hero_banner_1780821456695.png"
           alt="Piraso traditional food thali styling"
           className="w-full h-full object-cover object-right opacity-90 dark:opacity-75"
           referrerPolicy="no-referrer"

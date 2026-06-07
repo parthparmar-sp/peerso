@@ -30,7 +30,7 @@ export const Story: React.FC = () => {
           >
             <div className="aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl border-4 border-white dark:border-neutral-800">
               <img
-                src="/src/assets/images/traditional_gujarati_kitchen_1780821639422.png"
+                src="/images/traditional_gujarati_kitchen_1780821639422.png"
                 alt="Nostalgic traditional Gujarati village kitchen with warm mornings"
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
