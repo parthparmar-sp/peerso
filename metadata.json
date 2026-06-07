@@ -1,0 +1,6 @@
+{
+  "name": "Piraso",
+  "description": "Premium Gujarati heritage food ecommerce bringing authentic regional specialties directly from their origin to Gujaratis worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
